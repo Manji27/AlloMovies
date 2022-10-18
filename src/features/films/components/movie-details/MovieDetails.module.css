@@ -1,0 +1,15 @@
+.movieDetails {
+    display : flex;
+    flex-direction: column;
+    width : 25%;
+    padding : 2rem;
+    color: white;
+    background : #111111;
+    height: 1000px;
+}
+.movieDetails span {
+    margin-bottom: 1rem;
+}
+.movieDetails i {
+    color: #F5C518;
+}

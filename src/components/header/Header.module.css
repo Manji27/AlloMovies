@@ -1,0 +1,8 @@
+.headerMovie {
+    background:  #111111;
+    padding: 1rem;
+    color: white;
+}
+.headerMovie img {
+    width: 90px;
+}
